@@ -1,2 +1,2 @@
 #Repository baru dari pc lokal
-Reset dan revert
+Reset dan revert.
